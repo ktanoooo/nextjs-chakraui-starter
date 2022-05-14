@@ -6,15 +6,14 @@ This project is my best directory structure on `NextJS + ChakraUI`.
 ./
 ├ assets/
 ├ components/
-│ ├ atoms/...
-│ ├ molecules/...
-│ └ organisms/...
-├ onstants/
-│ └ index.ts
-├ onstants/
-│ ├ atoms/...
-│ ├ molecules/...
-│ └ organisms/...
+│ ├ atoms/
+│ ├ molecules/
+│ └ organisms/
+├ constants/
+├ constants/
+│ ├ atoms/
+│ ├ molecules/
+│ └ organisms/
 ├ contexts/
 ├ hooks/
 ├ libs/
