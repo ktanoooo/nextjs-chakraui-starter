@@ -25,12 +25,11 @@ This project is my best directory structure on `NextJS + ChakraUI`.
 │ ├ ...
 │ └ index.tsx
 ├ public/
-├ styles/
 └ themes/
   ├ components/
   │ ├ Button/
   │ │ ├ Button.tsx
-p  │ │ └ index.tsx
+  │ │ └ index.tsx
   │ └ ...
   └ createThemes.ts
 ```
