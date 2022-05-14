@@ -18,7 +18,7 @@ This project is my best directory structure on `NextJS + ChakraUI`.
 ├ hooks/
 ├ libs/
 ├ pages/
-│ ├ api
+│ ├ api/
 │ ├ _app.tsx
 │ ├ _document.tsx
 │ ├ ...
