@@ -35,7 +35,13 @@ This project is my best directory structure on `NextJS + ChakraUI`.
 
 # Getting Started
 
-First, run the development server:
+First, install packages
+
+```
+yarn install
+```
+
+Then, run the development server:
 
 ```bash
 yarn dev
