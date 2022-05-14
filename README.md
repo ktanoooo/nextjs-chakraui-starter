@@ -10,7 +10,7 @@ This project is my best directory structure on `NextJS + ChakraUI`.
 │ ├ molecules/
 │ └ organisms/
 ├ constants/
-├ constants/
+├ containers/
 │ ├ atoms/
 │ ├ molecules/
 │ └ organisms/
