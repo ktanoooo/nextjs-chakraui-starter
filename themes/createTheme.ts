@@ -1,6 +1,6 @@
 // 1. Import the extendTheme function
 import { theme as baseTheme, extendTheme, withDefaultColorScheme } from '@chakra-ui/react'
-import { ButtonTheme } from './components/Button'
+import { ButtonTheme } from './components/Forms'
 
 // 2. Extend the theme to include custom colors, fonts, etc
 const global = {
