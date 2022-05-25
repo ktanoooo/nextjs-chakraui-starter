@@ -23,7 +23,7 @@
     "@emotion/styled": "11.8.1",
     "@types/lodash": "4.14.182",
     "@types/styled-components": "5.1.25",
-    "framer-motion": "6.3.3",
+    "framer-motion": "6.3.4",
     "lodash": "4.17.21",
     "next": "12.1.6",
     "polished": "4.2.2",
