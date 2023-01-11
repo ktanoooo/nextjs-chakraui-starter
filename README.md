@@ -36,10 +36,11 @@ This project is my best directory structure on `NextJS + ChakraUI`.
 
 # Getting Started
 
-First, install packages
+First, install packages and copy .env
 
 ```
 yarn install
+cp .env.sample .env
 ```
 
 Then, run the development server:
